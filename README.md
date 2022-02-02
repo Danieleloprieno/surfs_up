@@ -13,7 +13,7 @@ This analysis was conducted at the request of W. Avey in order to inform busines
 - June in Oahu is warm and consisten; there is tight variance in temperature data around measures of central tendency and few days lie far from the balmy average of 75 degrees.
 
 ### December Visuals
-![December Temperature Table](/Images/dec_temp_table.png)
+![December Temperature Table](/Images/Dec_temp_table.png)
 
 ![Decemeber Temperature Boxplot](/Images/dec_temp_boxplot.png)
 
@@ -27,10 +27,13 @@ This analysis was conducted at the request of W. Avey in order to inform busines
 
 - Additional weather related queries can help illustrate the varaince in weather outcomes in the winter.  Take, for example, differences in precipiation.
 
-![June Rain Table](/Images/june_rain_table.png)
-![June Rain Plot](/Images/june_rain_plot.png)
-![December Rain Table](/Images/dec_rain_table.png)
-![December Rain Plot](/Images/dec_rain_plot.png)
+![June Rain Table](/Images/June_rain_table.png)
+
+![June Rain Plot](/Images/June_rain_plot.png)
+
+![December Rain Table](/Images/Dec_rain_table.png)
+
+![December Rain Plot](/Images/Dec_rain_plot.png)
 
 December sees not only mucch higher rates of precipiation but again the variance in precipation outcomes throughout the month vary more than seen in June.  Taken together with teh temperature data, winter operations of ice cream and surf shops might warrent reduced hours for such reasons.
 
