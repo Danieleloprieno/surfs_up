@@ -6,7 +6,8 @@ This analysis was conducted at the request of W. Avey in order to inform busines
 ## Results
 
 ### June Visuals
-![June Temperature Table] (/Images/june_temp_table.png)
+![June Temperature Table] (/Images/June_temp_table.png)
+
 ![June Temperature Boxplot] (/Images/june_temp_boxplot.png)
 
 - June in Oahu is warm and consisten; there is tight variance in temperature data around measures of central tendency and few days lie far from the balmy average of 75 degrees.
